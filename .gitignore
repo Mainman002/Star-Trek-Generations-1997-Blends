@@ -14,3 +14,11 @@ export_credentials.cfg
 .mono/
 data_*/
 mono_crash.*.json
+
+# Blender related files
+*.Blend1
+*.Blend2
+*.Blend3
+*.Blend4
+*.Blend5
+*.import
